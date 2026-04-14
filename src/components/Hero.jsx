@@ -52,7 +52,7 @@ export default function Hero() {
         <div className="text-center md:text-left max-w-[280px]">
           <h3 className="text-neon-cyan font-space uppercase tracking-[0.3em] font-semibold text-xs mb-3">About Me</h3>
           <p className="text-gray-400 font-light text-sm leading-relaxed">
-            Biến những nhu cầu rời rạc thành backlog rõ ràng, những kỳ vọng trừu tượng thành giải pháp khả thi.
+            Tôi định hướng phát triển trong lĩnh vực Product Management, với thế mạnh ở nghiên cứu, discovery, phân tích yêu cầu và chuyển hóa những bài toán mơ hồ thành định hướng rõ ràng, có thể triển khai.
             <br /><br />
             <span id="typing-text" className="text-white font-medium"></span><span className="typing-cursor"></span>
           </p>
