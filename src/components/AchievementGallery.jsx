@@ -135,8 +135,6 @@ export default function AchievementGallery() {
                 </div>
 
               </div>
-              <div className="swiper-button-prev"></div>
-              <div className="swiper-button-next"></div>
               <div className="swiper-pagination"></div>
             </div>
           </div>
