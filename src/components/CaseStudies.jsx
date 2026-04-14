@@ -362,7 +362,7 @@ export default function CaseStudies() {
                       </p>
                       <ul className="cs-list">
                         <li>Sản phẩm triển khai trên cả <strong>App Store</strong> và <strong>Google Play</strong>.</li>
-                        <li>Ghi nhận <strong>100+ lượt tải</strong> và sử dụng ứng dụng, góp phần thúc đẩy sự tham gia của cộng đồng vào các hoạt động môi trường thông qua nền tảng công nghệ.</li>
+                        <li>Ghi nhận <strong>100+ lượt tải</strong> và sử dụng ứng dụng trong 1 tuần đầu tiên, góp phần thúc đẩy sự tham gia của cộng đồng vào các hoạt động môi trường thông qua nền tảng công nghệ.</li>
                         <li>Dự án được công nhận là <strong>Top 20 điểm sáng nổi bật</strong> tại Greenwich Việt Nam 2025.</li>
                         <li>Trở thành <strong>dự án tiên phong</strong> trong việc ứng dụng công nghệ vào hoạt động bảo vệ môi trường tại Greenwich Việt Nam - cơ sở Hà Nội.</li>
                       </ul>
