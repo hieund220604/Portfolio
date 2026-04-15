@@ -25,9 +25,9 @@ export default function AchievementGallery() {
                       </div>
                     </div>
                     <div className="slide-caption z-10 -mt-16">
-                      <span className="slide-tag">🎤 Public Speaking</span>
-                      <h4 className="slide-title">Diễn giả TEDx Greenwich Hà Nội</h4>
-                      <p className="slide-desc">Chia sẻ về hành trình và công thức tìm kiếm đam mê cho các bạn trẻ.
+                      <span className="slide-tag"> Public Speaking</span>
+                      <h4 className="slide-title">Diễn giả tại TEDx Greenwich University Hà Nội</h4>
+                      <p className="slide-desc">TEDx Greenwich University Hanoi là sự kiện diễn thuyết theo tinh thần TEDx, nơi các ý tưởng và câu chuyện truyền cảm hứng được lan tỏa tới cộng đồng sinh viên và người trẻ. Tại sự kiện, Đức Hiếu đảm nhiệm vai trò diễn giả, chia sẻ về hành trình và công thức tìm kiếm đam mê, với mong muốn giúp các bạn trẻ hiểu bản thân rõ hơn và tự tin theo đuổi con đường của mình.
                       </p>
                     </div>
                   </div>
@@ -44,10 +44,9 @@ export default function AchievementGallery() {
                       </div>
                     </div>
                     <div className="slide-caption z-10 -mt-16">
-                      <span className="slide-tag">🏆 Achievement</span>
+                      <span className="slide-tag">Achievement</span>
                       <h4 className="slide-title">Sinh viên có hoạt động xuất sắc nhất năm 2025</h4>
-                      <p className="slide-desc">Giải thưởng ghi nhận đóng góp nổi bật trong các hoạt động học thuật và cộng
-                        đồng.</p>
+                      <p className="slide-desc">Greenwich Club Awards 2025: Kỳ Mã Khai Phóng là lễ trao giải vinh danh những cá nhân, sự kiện và tập thể có dấu ấn nổi bật trong hoạt động ngoại khóa của sinh viên Greenwich Việt Nam – cơ sở Hà Nội. Sự kiện đề cao tinh thần đổi mới, sáng tạo và khả năng tạo tác động thực tiễn trong cộng đồng sinh viên. Tại đây, Đức Hiếu được vinh danh với giải thưởng “Sinh viên có hoạt động xuất sắc nhất năm 2025”, ghi nhận những nỗ lực nổi bật trong học tập và hoạt động phong trào.</p>
                     </div>
                   </div>
                 </div>
@@ -64,10 +63,9 @@ export default function AchievementGallery() {
                       </div>
                     </div>
                     <div className="slide-caption z-10 -mt-16">
-                      <span className="slide-tag">🎓 Leadership</span>
+                      <span className="slide-tag">Leadership</span>
                       <h4 className="slide-title">Phó Chủ tịch Hội đồng Sinh viên Greenwich Việt Nam — Hà Nội</h4>
-                      <p className="slide-desc">Dẫn dắt và điều phối các hoạt động cộng đồng sinh viên, tổ chức chuỗi sự kiện
-                        công nghệ.</p>
+                      <p className="slide-desc">Hội đồng Sinh viên Greenwich Việt Nam – cơ sở Hà Nội (GSAC) là đơn vị đại diện chính thức cho hình ảnh và tiếng nói của cộng đồng sinh viên trong trường, đồng thời đóng vai trò kết nối và thúc đẩy các hoạt động sinh viên. Tại đây, Đức Hiếu đảm nhiệm vai trò Phó Chủ tịch, tham gia định hướng hoạt động, phối hợp tổ chức các chương trình và đóng góp vào việc xây dựng một cộng đồng sinh viên năng động, gắn kết và giàu tinh thần phát triển.</p>
                     </div>
                   </div>
                 </div>
@@ -84,10 +82,9 @@ export default function AchievementGallery() {
                       </div>
                     </div>
                     <div className="slide-caption z-10 -mt-16">
-                      <span className="slide-tag">🗂️ Event Management</span>
+                      <span className="slide-tag">Event Management</span>
                       <h4 className="slide-title">Trưởng Ban tổ chức — Greenwich Club Fair 2025</h4>
-                      <p className="slide-desc">Tổ chức và điều phối ngày hội câu lạc bộ thường niên, kết nối sinh viên với cộng
-                        đồng.</p>
+                      <p className="slide-desc">Greenwich Club Fair 2025 là ngày hội câu lạc bộ thường niên do Bộ phận PDP và Hội đồng Sinh viên Greenwich Việt Nam – cơ sở Hà Nội phối hợp tổ chức, nhằm kết nối các câu lạc bộ với sinh viên và lan tỏa bản sắc riêng của từng tổ chức. Sự kiện góp phần xây dựng một cộng đồng sinh viên năng động, sáng tạo và đa dạng. Trong chương trình, Đức Hiếu đảm nhiệm vai trò Trưởng Ban Tổ chức, phụ trách điều phối tổng thể và triển khai các hoạt động chính của sự kiện.</p>
                     </div>
                   </div>
                 </div>
@@ -105,10 +102,9 @@ export default function AchievementGallery() {
                       </div>
                     </div>
                     <div className="slide-caption z-10 -mt-16">
-                      <span className="slide-tag">🎉 Community</span>
-                      <h4 className="slide-title">Phó Ban tổ chức — Chuỗi sự kiện chào Tân Sinh viên</h4>
-                      <p className="slide-desc">Đồng tổ chức chuỗi sự kiện định hướng cho sinh viên năm nhất tại Greenwich Hà
-                        Nội.</p>
+                      <span className="slide-tag">Community</span>
+                      <h4 className="slide-title">Phó Ban tổ chức — Chuỗi sự kiện chào Tân Sinh viê Greenwich Journey Day 7</h4>
+                      <p className="slide-desc">Greenwich Journey Day là chuỗi sự kiện chào đón Tân sinh viên lớn nhất tại Greenwich Việt Nam – cơ sở Hà Nội, do Ban Công tác Sinh viên và Hệ thống Câu lạc bộ phối hợp tổ chức. Sự kiện đóng vai trò kết nối sinh viên mới với môi trường đại học năng động, đồng thời lan tỏa tinh thần cộng đồng và bản sắc sinh viên Greenwich. Trong chương trình, Đức Hiếu đảm nhiệm vai trò Phó Ban Tổ chức, tham gia điều phối hoạt động và hỗ trợ triển khai các hạng mục chính của sự kiện..</p>
                     </div>
                   </div>
                 </div>
@@ -126,10 +122,9 @@ export default function AchievementGallery() {
                       </div>
                     </div>
                     <div className="slide-caption z-10 -mt-16">
-                      <span className="slide-tag">🎬 Creative</span>
+                      <span className="slide-tag">Creative</span>
                       <h4 className="slide-title">Biên tập viên Xuất sắc & Sáng tạo nhất — FILM Organization 2023</h4>
-                      <p className="slide-desc">Giải thưởng kép ghi nhận tài năng biên tập và khả năng sáng tạo nội dung xuất
-                        sắc.</p>
+                      <p className="slide-desc">FILM Organization là dự án làm phim thường niên quy tụ cộng đồng sinh viên trên khắp địa bàn Hà Nội, tập trung vào việc sản xuất các sản phẩm điện ảnh ngắn với sự tham gia của nhiều vị trí như diễn viên, biên tập viên và quay phim. Dự án tạo môi trường thực hành sáng tạo, giúp người tham gia phát triển kỹ năng kể chuyện, làm việc nhóm và tư duy nghệ thuật trong lĩnh vực truyền thông – điện ảnh. Tại dự án, Đức Hiếu được vinh danh với danh hiệu “Biên tập viên Xuất sắc nhất” và “Biên tập viên Sáng tạo nhất”, ghi nhận những đóng góp nổi bật trong quá trình phát triển nội dung và hoàn thiện sản phẩm.</p>
                     </div>
                   </div>
                 </div>
